@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Explain Python in simple words.",
+    "answer": "Python is a programming language used for automation, data analysis, and application development."
+  },
+  {
+    "prompt": "What is machine learning?",
+    "answer": "Machine learning enables computers to learn patterns from data and make predictions."
+  },
+  {
+    "prompt": "What is overfitting?",
+    "answer": "Overfitting occurs when a model fits training data too closely and performs poorly on unseen examples."
+  },
+  {
+    "prompt": "Explain a Python function.",
+    "answer": "A Python function is a reusable block of code defined using the def keyword."
+  }
+]

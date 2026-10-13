@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Explain Python in simple words.",
+    "base_answer": "Python is a programming language that was developed by Guido van Rossum and his team at the Python Software Foundation. It's designed to be easy to learn and use, making it popular among developers of all skill levels.\n\nKey features of Python include:\n\n1. Easy syntax: The language uses indentation (e.g., `def` for functions) to define blocks of code, which makes it easier to read.\n2. Large standard library: There's a vast collection of pre-written code, including libraries"
+  },
+  {
+    "prompt": "What is machine learning?",
+    "base_answer": "Machine learning is a subset of artificial intelligence (AI) that involves the development of algorithms and models that enable computers to learn from data and improve their performance over time without being explicitly programmed. In other words, it's about creating systems that can automatically learn and adapt based on experience.\n\nKey aspects of machine learning include:\n\n1. Supervised learning: This type of learning uses labeled data where each example has an associated label.\n2. Unsupervised learning: This type of learning does not have any pre"
+  },
+  {
+    "prompt": "What is overfitting?",
+    "base_answer": "Overfitting occurs when a model is trained on the training data too well, resulting in poor performance on unseen data. This happens because the model has learned to fit the noise in the training data rather than learning the underlying patterns and relationships.\n\nKey factors that contribute to overfitting include:\n\n1. **High Dimensionality**: The number of features (variables) in your dataset can be very large, making it difficult for the model to generalize.\n2. **Random Initialization**: If the initial weights of"
+  },
+  {
+    "prompt": "Explain a Python function.",
+    "base_answer": "Certainly! Let's create a simple Python function that calculates the factorial of a given number.\n\n```python\ndef factorial(n):\n    if n == 0:\n        return 1\n    else:\n        result = 1\n        for i in range(1, n + 1):\n            result *= i\n        return result\n```\n\nThis function takes an integer `n` as input and returns the factorial of `n`. The factorial of a non-negative integer `n`, denoted"
+  }
+]
